@@ -15,7 +15,9 @@ export default function Repositories() {
     } else {
       history.push('/')
     }
+    // eslint-disable-next-line
   }, []);
+  // }, [history]); // adding the missing dependency
 
   return (
     <S.Container>
