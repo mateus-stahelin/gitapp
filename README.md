@@ -1,4 +1,4 @@
-# 🌪️ [GitHub APP](https://gitapp.netlify.app/)
+# 🌪️ [GitHub APP Repos](https://gitapprepos.netlify.app/)
 
 <p align="center">
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -49,7 +49,7 @@ npm install && npm start
 
 ## 📶 App
 
-* Acesse o projeto na **nuvem** [neste endereço](https://gitapp.netlify.app/).
+* Acesse o projeto na **nuvem** [neste endereço](https://gitapprepos.netlify.app/).
 
 ## 🦾 Autor
 
