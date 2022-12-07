@@ -1,0 +1,6 @@
+html, body {
+    text-align: center;
+    width: 99vw;
+    height: 99vh;
+    background: linear-gradient(90deg,#005aa7, #fffde4);
+}
