@@ -10,7 +10,7 @@
 
 ## 📜 Projeto
 
-- Projeto desenvolvido em JavaScript e React para consulta de repositórios **públicos** no Github de qualquer usuário
+- Projeto desenvolvido em JavaScript e React para consulta de repositórios **públicos** de qualquer usuário no Github
 
 - Os principais conceitos de React e JavaScript explorados foram:
   - Hooks/Funções (useHistory, useState, useEffect)
@@ -32,6 +32,7 @@
 - [VS Code](https://code.visualstudio.com/)
 - [GitHub](https://github.com/)
 - [Netlify](https://www.netlify.com)
+- [API GitHub](https://api.github.com/)
 
 ## 📺 OBS
 
