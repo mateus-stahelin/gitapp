@@ -28,7 +28,7 @@ function App(props) {
   
   return (
   <S.HomeContainer>
-      <S.h1>CHECK PUBLIC REPOSITORIES ON GITHUB</S.h1>
+      <S.h1>VERIFICAR REPOSITÓRIOS PÚBLICOS DO GITHUB</S.h1>
       <S.h3>Enter the GitHub username:</S.h3>
     <S.Content>  
       <S.Input className='usuarioInput' placeholder='GitHub User' value={ usuario } onChange={e => setUsuario(e.target.value) } />
